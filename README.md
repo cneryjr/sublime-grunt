@@ -1,11 +1,11 @@
-sublime-grunt
-=============
+sublime-grunt-tekton
+====================
 
-A Grunt task runner for Sublime Text
+A Grunt task runner specific for Tekton (Softbox Co) for Sublime Text
 
 ## Installation
 
-sublime-grunt can be installed via [Sublime Package Control](https://sublime.wbond.net/). In Package Control, it is called **Grunt**. Please refer to the offical Package Control documentation to learn how to install packages.
+sublime-grunt-tekton can be installed via [Sublime Package Control](https://sublime.wbond.net/). In Package Control, it is called **Grunt**. Please refer to the offical Package Control documentation to learn how to install packages.
 
 Alternatively, you can also clone the [sublime-grunt repository](https://github.com/tvooo/sublime-grunt/) into your Sublime Text packages folder.
 
