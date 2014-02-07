@@ -42,6 +42,6 @@ You may override your `PATH` environment variable as follows:
 
 ## Thanks
 
-Thanks for some contributions go to
+Thanks for Grunt Sublime go to
 
 * [Tim von Oldenburg](https://github.com/tvooo)
